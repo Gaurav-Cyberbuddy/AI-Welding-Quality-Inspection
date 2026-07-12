@@ -1,0 +1,4 @@
+split,source_images,source_labels,matched_pairs,images_without_labels,labels_without_images,removed_malformed_lines,removed_unusable_pairs,clean_images,clean_labels,valid_instances
+train,1107,1109,1107,0,2,315,0,1107,1107,25298
+valid,188,191,188,0,3,7,0,188,188,1815
+test,89,89,89,0,0,4,0,89,89,523

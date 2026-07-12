@@ -1,0 +1,33 @@
+# Datasets
+data/
+
+# Trained models
+models/
+*.pth
+*.pt
+
+# YOLO outputs
+runs/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
