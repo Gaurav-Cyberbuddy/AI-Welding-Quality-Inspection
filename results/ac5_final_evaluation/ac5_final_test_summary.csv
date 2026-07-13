@@ -1,0 +1,2 @@
+frozen_threshold,total_samples,accepted_samples,manual_review_samples,coverage,manual_review_rate,correct_accepted,incorrect_accepted,accepted_accuracy,total_defect_samples,correctly_accepted_defects,defect_recall_all,defect_manual_review,total_good_weld_samples,correctly_accepted_good_welds,good_weld_recall_all,good_weld_manual_review,dangerous_false_good,false_defect
+0.85,89,6,83,0.06741573033707865,0.9325842696629213,6,0,1.0,68,6,0.08823529411764706,62,21,0,0.0,21,0,0
